@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\controllers\\consultasfueracoberturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:controllers\\consultasfueracoberturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\data\\entities\\laboratoriodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:data\\entities\\laboratoriodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\data\\repositories\\laboratoriodbcontextproceduresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:data\\repositories\\laboratoriodbcontextproceduresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\data\\repositories\\ilaboratoriodbcontextproceduresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:data\\repositories\\ilaboratoriodbcontextproceduresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\data\\procedures\\sp_practicas_fuera_coberturaresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:data\\procedures\\sp_practicas_fuera_coberturaresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\controllers\\estadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:controllers\\estadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\data\\repositories\\estadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:data\\repositories\\estadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|c:\\tup\\tpi\\tpi final\\laboratoriowebapi\\data\\repositories\\iestadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CAFBC6-18BA-40C7-AB31-EEA93A4208C2}|LaboratorioWebApi.csproj|solutionrelative:data\\repositories\\iestadosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultasFueraCoberturaController.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Controllers\\ConsultasFueraCoberturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultasFueraCoberturaController.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Controllers\\ConsultasFueraCoberturaController.cs",
+              "RelativeToolTip": "Controllers\\ConsultasFueraCoberturaController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:09:51.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaboratorioDbContext.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Entities\\LaboratorioDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\LaboratorioDbContext.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Entities\\LaboratorioDbContext.cs",
+              "RelativeToolTip": "Data\\Entities\\LaboratorioDbContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA3wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:03:19.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LaboratorioDbContextProceduresRepository.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\LaboratorioDbContextProceduresRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\LaboratorioDbContextProceduresRepository.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\LaboratorioDbContextProceduresRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\LaboratorioDbContextProceduresRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:01:55.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILaboratorioDbContextProceduresRepository.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\ILaboratorioDbContextProceduresRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ILaboratorioDbContextProceduresRepository.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\ILaboratorioDbContextProceduresRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ILaboratorioDbContextProceduresRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:00:50.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sp_practicas_fuera_coberturaResult.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Procedures\\sp_practicas_fuera_coberturaResult.cs",
+              "RelativeDocumentMoniker": "Data\\Procedures\\sp_practicas_fuera_coberturaResult.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Procedures\\sp_practicas_fuera_coberturaResult.cs",
+              "RelativeToolTip": "Data\\Procedures\\sp_practicas_fuera_coberturaResult.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:51:54.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:37:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadosController.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Controllers\\EstadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstadosController.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Controllers\\EstadosController.cs",
+              "RelativeToolTip": "Controllers\\EstadosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:34:39.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadosRepository.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\EstadosRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\EstadosRepository.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\EstadosRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\EstadosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:32:49.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEstadosRepository.cs",
+              "DocumentMoniker": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\IEstadosRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IEstadosRepository.cs",
+              "ToolTip": "C:\\TUP\\TPI\\TPI FINAL\\LaboratorioWebApi\\Data\\Repositories\\IEstadosRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IEstadosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:28:42.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\appsettings.json
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\efpt.config.json
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.exe
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.deps.json
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.runtimeconfig.json
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Humanizer.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\TPI\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.AssemblyReference.cache
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfoInputs.cache
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfo.cs
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.CoreCompileInputs.cache
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.LaboratorioWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LaboratorioWebApi.props
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaboratorioWebApi.props
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaboratorioWebApi.props
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\scopedcss\bundle\LaboratorioWebApi.styles.css
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\Laborato.A527F5B0.Up2Date
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\refint\LaboratorioWebApi.dll
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.genruntimeconfig.cache
+C:\TUP\TPI\LaboratorioWebApi\obj\Debug\net8.0\ref\LaboratorioWebApi.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\appsettings.json
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\efpt.config.json
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.exe
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.deps.json
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.runtimeconfig.json
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Humanizer.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\copia tpi\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.AssemblyReference.cache
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfoInputs.cache
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfo.cs
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.CoreCompileInputs.cache
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.LaboratorioWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LaboratorioWebApi.props
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaboratorioWebApi.props
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaboratorioWebApi.props
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\scopedcss\bundle\LaboratorioWebApi.styles.css
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\Laborato.A527F5B0.Up2Date
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\refint\LaboratorioWebApi.dll
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.genruntimeconfig.cache
+C:\TUP\copia tpi\LaboratorioWebApi\obj\Debug\net8.0\ref\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\appsettings.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\efpt.config.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.exe
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.deps.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.runtimeconfig.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Humanizer.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.AssemblyReference.cache
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfoInputs.cache
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfo.cs
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.CoreCompileInputs.cache
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.sourcelink.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.LaboratorioWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LaboratorioWebApi.props
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaboratorioWebApi.props
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaboratorioWebApi.props
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\scopedcss\bundle\LaboratorioWebApi.styles.css
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\Laborato.A527F5B0.Up2Date
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\refint\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.genruntimeconfig.cache
+C:\TUP\TPI\TPI 2024\LaboratorioWebApi\obj\Debug\net8.0\ref\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\appsettings.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\efpt.config.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.exe
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.deps.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.runtimeconfig.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Humanizer.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.AssemblyReference.cache
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfoInputs.cache
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.AssemblyInfo.cs
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.csproj.CoreCompileInputs.cache
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.sourcelink.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.LaboratorioWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LaboratorioWebApi.props
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LaboratorioWebApi.props
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LaboratorioWebApi.props
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\scopedcss\bundle\LaboratorioWebApi.styles.css
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\Laborato.A527F5B0.Up2Date
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\refint\LaboratorioWebApi.dll
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.pdb
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\LaboratorioWebApi.genruntimeconfig.cache
+C:\TUP\TPI\TPI FINAL\LaboratorioWebApi\obj\Debug\net8.0\ref\LaboratorioWebApi.dll

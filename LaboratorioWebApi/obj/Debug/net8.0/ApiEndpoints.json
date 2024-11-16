@@ -1,0 +1,215 @@
+[
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.ConsultasFacturacionController",
+    "Method": "GetCostoDerivPorLaboratorio",
+    "RelativePath": "api/ConsultasFacturacion/GetCostoDerivPorLaboratorio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaDesde",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaHasta",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.ConsultasFacturacionController",
+    "Method": "GetCostoTotalDerivaciones",
+    "RelativePath": "api/ConsultasFacturacion/GetCostoTotalDerivaciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaDesde",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaHasta",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.ConsultasFueraCoberturaController",
+    "Method": "GetPracticasFueraCobertura",
+    "RelativePath": "api/ConsultasFueraCobertura/fuera-cobertura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.ConsultasMuestrasController",
+    "Method": "GetEstadoMuestras",
+    "RelativePath": "api/ConsultasMuestras/GetEstadoMuestras",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estado",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.ConsultasMuestrasController",
+    "Method": "GetMuestrasParaInformar",
+    "RelativePath": "api/ConsultasMuestras/muestras-para-informar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.DetallesMuestrasController",
+    "Method": "GetDetallesMuestras",
+    "RelativePath": "api/DetallesMuestras/detalles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.DetallesMuestrasController",
+    "Method": "CreateDetalleMuestra",
+    "RelativePath": "api/DetallesMuestras/detalles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detalle",
+        "Type": "LaboratorioWebApi.Data.Entities.DetallesMuestras",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.DetallesMuestrasController",
+    "Method": "Get",
+    "RelativePath": "api/DetallesMuestras/GetDetallesMuestras",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.EstadosController",
+    "Method": "ObtenerEstados",
+    "RelativePath": "api/Estados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.MuestraController",
+    "Method": "Post",
+    "RelativePath": "api/Muestra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "LaboratorioWebApi.Data.Entities.Muestras",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.MuestraController",
+    "Method": "Get",
+    "RelativePath": "api/Muestra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.MuestraController",
+    "Method": "Get",
+    "RelativePath": "api/Muestra/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.MuestraController",
+    "Method": "GetByEstado",
+    "RelativePath": "api/Muestra/GetByEstado/{idTipoEstado}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idTipoEstado",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.MuestraController",
+    "Method": "UpdateEstado",
+    "RelativePath": "api/Muestra/UpdateEstado/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "nuevoEstado",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LaboratorioWebApi.Controllers.PracticasController",
+    "Method": "ObtenerPracticas",
+    "RelativePath": "api/Practicas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
