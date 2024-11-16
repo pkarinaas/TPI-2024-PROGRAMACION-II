@@ -1,0 +1,36 @@
+body {
+    font-family: 'mulish', sans-serif;
+    background: linear-gradient(to bottom, #ffffff, #ebebeb);
+    height: 100vh;
+}
+
+#link-header{
+    color: #00607d !important;
+}
+
+#title-team{
+    color: #f0f0f0;
+    padding: 2rem;
+    background-color: #00607d;
+    border-radius: .6rem;
+}
+
+p{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+footer {  
+    position: fixed;  
+    left: 0;  
+    bottom: 0;  
+    right: 0;  
+} 
+
+.foto{
+    display: inline-block;
+    background-color: #00607d;
+    padding: auto;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}

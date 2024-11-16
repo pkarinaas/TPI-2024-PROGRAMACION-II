@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratorio Castillo</title>
+    <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="../js/chart.js"></script>
+    <link rel="stylesheet" href="../css/estilo.css">
+</head>
+<body>  
+    <div class="container">  
+        <header class="d-flex flex-wrap justify-content-center py-3 border-bottom">  
+            <a href="../html/inicio.html" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">  
+                <img class="bi me-2" width="43" height="37" src="../img/castillo.webp" alt="Descripción de la imagen">  
+                <span class="fs-4">Castillo Lab</span>  
+            </a> 
+            
+            <ul id="items-header" class="nav nav-pills">
+                <li class="nav-item"><a href="../html/inicio.html" class="nav-link" id="link-header" aria-current="page"><i class="icon ion-md-home me-1"></i>Inicio</a></li>
+                <li class="nav-item"><a href="../html/nosotros.html" class="nav-link" id="link-header"><i class="icon ion-md-people me-2"></i>Integrantes</a></li>
+                <li><div class="dropdown mt-1 ms-3">
+                    <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                      <img src="https://cdn-icons-png.flaticon.com/512/3275/3275233.png" alt="" width="32" height="32" class="rounded-circle me-2">
+                      <strong class="text-black">Admin</strong>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark text-small shadow">
+                      <li><a class="dropdown-item" href="#">Perfil</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="../html/index.html">Cerrar Sesión</a></li>
+                    </ul>
+                  </div></li>
+            </ul>
+        </header> 
+    </div>  
+    
+    <div class="container-fluid d-flex p-0">
+        <div id="sidebar" class="d-flex flex-column">
+            <button id="toggle-btn" class="btn mb-3 mt-3 mx-auto">
+                <i id="toggle-icon" class="icon ion-md-menu"></i>
+            </button>
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link" href="agregarmuestra.html"><i class="icon ion-md-add"></i><span class="ms-1">Nueva Muestra</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="listadoMuestras.html"><i class="icon ion-md-apps"></i><span>Listado por Estado</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="cobertura.html"><i class="icon ion-logo-usd"></i><span>Cobertura</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../html/muestrasGeneral.html"><i class="icon ion-md-stats"></i><span>Lista Muestras</span></a>
+                </li>
+            </ul>
+        </div>
+    
+        <div class="content flex-grow-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header">
+                                <div class="card-title">Cantidad de Muestras por mes</div>
+                            </div>
+                            <div class="card-body">
+                                <div class="chart-container">
+                                    <canvas id="barChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-header">
+                                <div class="card-title">Estados de Muestras</div>
+                            </div>
+                            <div class="card-body">
+                                <canvas id="pieChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> 
+    <footer class="bg-dark text-white text-center py-4">  
+        <div class="container">  
+            <p>&copy; 2024 Castillo Lab. Todos los derechos reservados.</p>  
+            
+        </div>  
+    </footer> 
+    <script>
+        document.getElementById('toggle-btn').addEventListener('click', function () {
+            const sidebar = document.getElementById('sidebar');
+            const icon = document.getElementById('toggle-icon');
+            sidebar.classList.toggle('collapsed');
+        });
+    </script>
+</body>  
+</html>  

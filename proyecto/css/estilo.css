@@ -1,0 +1,59 @@
+body {
+    min-height: 100vh;
+    overflow: hidden;
+    font-family: 'mulish', sans-serif;
+    overflow-y: auto;
+}
+
+#sidebar {
+    background-color: #00607d;
+    min-width: 250px;
+    max-width: 250px;
+    color: white;
+    transition: all 0.3s;
+    height: 100vh;
+}
+
+#sidebar.collapsed {
+    max-width: 60px;
+    min-width: 60px;
+}
+
+#sidebar .nav-link {
+    color: white;
+    margin-left: 8px;
+}
+
+#sidebar .nav-link span {
+    margin-left: 10px;
+}
+
+#sidebar.collapsed .nav-link span {
+    display: none;
+}
+
+#link-header{
+    color: #00607d !important;
+}
+
+.content {  
+    flex:1; /* Ocupa el espacio restante */  
+    padding: 20px;  
+    overflow-y: auto; /* Agrega scroll si el contenido excede */  
+    background-color: #f8f9fa; /* Color de fondo del contenido */  
+} 
+
+footer {  
+    position: fixed;  
+    left: 0;  
+    bottom: 0;  
+    right: 0;  
+} 
+
+#toggle-btn{
+    color: white ;
+    font-size: 2rem;
+}
+
+@media (max-width: 768px) {   
+}  

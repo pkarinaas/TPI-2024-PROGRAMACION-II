@@ -1,0 +1,62 @@
+
+body {  
+    font-family: 'mulish', sans-serif;
+    min-height: 100vh;
+    margin: 0;  
+    padding-bottom: 60px; 
+
+}  
+
+a{
+    color: #00607d !important;
+}
+
+:root{
+
+    --primary: #505052;
+}
+
+.text-primary{color: var(--primary) !important;}
+
+#texto-convenios{
+    font-size: 23px;
+    font-weight: bold;
+    color: #00607d;
+}
+
+footer {  
+    position: fixed;  
+    left: 0;  
+    bottom: 0;  
+    right: 0;  
+} 
+
+.practicas-lab{
+    padding: 40px 40px 60px 40px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255)
+}
+
+
+.practicas-titulo{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+
+#main-text{
+    background-color: #00607d;
+    padding: 25px 10px 10px 10px;
+}
+
+#main-text{
+    color: white;
+    font-weight: bold;
+}
+
+#texto-especialidades{
+    font-size: 25px;
+    font-weight: bold;
+    color: #00607d;
+}
